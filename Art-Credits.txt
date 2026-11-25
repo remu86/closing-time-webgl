@@ -1,0 +1,10 @@
+Pixel People — TokyoGeisha
+https://opengameart.org/content/pixel-people
+Used for the staff and customer sprites. Hair and clothing layers were combined and resampled.
+
+Pixel Platformer (1.2) — Kenney
+https://kenney.nl/assets/pixel-platformer
+Used for shop props, floor and wall tiles, and elevator door panels.
+
+Both packs are available under Creative Commons Zero 1.0 (CC0).
+https://creativecommons.org/publicdomain/zero/1.0/
